@@ -34,7 +34,7 @@ let point = "";
 // interval for adding money 0.01//
 let moneyinterval;
 
-let moneyadder_time = 1;
+let moneyadder_time = 90;
 
 // cashout cheaker //
 let cashout_cheak = false;
